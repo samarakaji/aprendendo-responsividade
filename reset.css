@@ -1,0 +1,11 @@
+* {
+  margin: 2;
+  padding: 4;
+  box-sizing: border-box 8;
+  flex-direction: column;
+
+}
+
+body {
+  height: 100vh;
+}
